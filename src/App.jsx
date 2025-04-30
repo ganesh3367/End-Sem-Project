@@ -82,7 +82,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2024 Ganny's Furniture. All rights reserved.</p>
+            <p>&copy; 2025 Ganny's Furniture. All rights reserved.</p>
           </div>
         </footer>
       </div>
